@@ -84,9 +84,9 @@ public class MainActivity extends AppCompatActivity {
 
 ``` HTML
 마틴 파울러는 다음과 같은 세 가지의 의존성 주입 패턴을 제시하였다.
-생성자 주입 : 필요한 의존성을 모두 포함하는 클래스의 생성자를 만들고 그 생성자를 통해 의존성을 주입한다.
-세터(Setter)를 통한 주입 : 의존성을 입력받는 세터(Setter) 메소드를 만들고 이를 통해 의존성을 주입한다.
-인터페이스(Interface)를 통한 주입 : 의존성을 주입하는 함수를 포함한 인터페이스를 작성하고 이 인터페이스를 구현하도록 함으로써 실행시에 이를 통하여 의존성을 주입한다.
+- 생성자 주입 : 필요한 의존성을 모두 포함하는 클래스의 생성자를 만들고 그 생성자를 통해 의존성을 주입한다.
+- 세터(Setter)를 통한 주입 : 의존성을 입력받는 세터(Setter) 메소드를 만들고 이를 통해 의존성을 주입한다.
+- 인터페이스(Interface)를 통한 주입 : 의존성을 주입하는 함수를 포함한 인터페이스를 작성하고 이 인터페이스를 구현하도록 함으로써 실행시에 이를 통하여 의존성을 주입한다.
 ```
 ### AndroidAnnotations
 
@@ -130,11 +130,11 @@ class ExampleActivity extends Activity {
 ```
 
 
-- 참고하면 좋은 블로그 : http://d2.naver.com/helloworld/342818
+
 
 
 ### 출처
-
+- 참고하면 좋은 블로그 : http://d2.naver.com/helloworld/342818
 - 출처: http://imcreator.tistory.com/106 [인문과 공학의 사이 어느 중간쯤]
 - 출처: http://selfbrandmaking.tistory.com/1 [MAKING OWN BRAND]
 
