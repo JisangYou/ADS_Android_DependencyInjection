@@ -2,7 +2,8 @@
 
 ## 수업 내용
 
-- 의존성 주입을 학습
+- DI 학습
+- 관련 library 학습
 
 ## Code Review
 
